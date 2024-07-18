@@ -1,2 +1,1 @@
-hi ridaaawww
-how are you
+hi rida
