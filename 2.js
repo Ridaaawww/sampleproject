@@ -1,2 +1,1 @@
-the hacking school
-hi ridaaa
+console.log('hello this is rida')
